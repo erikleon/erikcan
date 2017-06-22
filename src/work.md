@@ -4,7 +4,7 @@ title: Work
 permalink: /work/
 
 ---
-Some of the sites that I have helped build:
+Some of the sites that I have built or worked on:
 
 <a target="_blank" href="https://walnuthome.com/">Walnut</a>
 
