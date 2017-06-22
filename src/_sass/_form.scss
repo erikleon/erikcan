@@ -20,6 +20,7 @@ form {
       border: none;
       border-bottom: 1px solid $blue;
       box-sizing: border-box;
+      border-radius: 0;
 
       &:focus {
         outline: none;
