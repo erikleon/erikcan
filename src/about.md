@@ -2,14 +2,23 @@
 layout: page
 title: About
 permalink: /about/
+blurb: I’m a full-stack developer with client management experience, passionate about building clean, efficient architecture for scalable web apps while continuously trying new solutions.
+
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I’m a full-stack developer with client management experience, passionate about building clean, efficient architecture for scalable web apps while continuously trying new solutions.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I studied Environmental Science in undergrad and went back to school at CUNY City Tech to learn design and development principles on top of my self–taught front–end skills.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I love hotdogs and have a couple favorite vendors across the city.
+
+I like hiking, camping, and using anything with wheels instead of walking.
+
+My climbing shoes and chalk have been collecting dust but maybe soon I will get back at it.
+<br/>
+<br/>
+<br/>
+
+If you want to get more info checkout my <a target="_blank" href="{{ site.url }}/assets/pdfs/Resume.pdf">Resume</a>.
+
+This site is built with Jekyll. Colors by <a href="http://colorlisa.com/">Color Lisa</a>.
