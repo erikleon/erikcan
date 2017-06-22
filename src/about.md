@@ -19,6 +19,6 @@ My climbing shoes and chalk have been collecting dust but maybe soon I will get 
 <br/>
 <br/>
 
-If you want to get more info checkout my <a target="_blank" href="{{ site.url }}/assets/pdfs/Resume.pdf">Resume</a>.
+If you want to get more info checkout my <a target="_blank" href="{{ site.baseurl }}/assets/pdfs/Resume.pdf">Resume</a>.
 
 This site is built with Jekyll. Colors by <a href="http://colorlisa.com/">Color Lisa</a>.
