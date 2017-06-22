@@ -6,25 +6,35 @@
 
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+$base-font-family: "Montserret", Arial, sans-serif;
+$base-font-size:   18px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
+$background-color: #F1F2ED;
 $brand-color:      #2a7ae2;
+
+$dark-blue:        #0E122D;
+$blue:             #182044;
+$light-blue:       #51628E;
+$lighter-blue:     #91A1BA;
+$lightest-blue:    #AFD0C9;
+
+$orange:           #BD5630;
+
+$text-color:       $dark-blue;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    960px;
 
+$on-phone:         375px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
@@ -49,5 +59,6 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "form"
 ;
