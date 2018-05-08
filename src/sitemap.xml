@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://erikcan.com/</loc>
+  <lastmod>2017-06-23T16:55:19+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://erikcan.com/about/</loc>
+  <lastmod>2017-06-23T16:55:19+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://erikcan.com/work/</loc>
+  <lastmod>2017-06-23T16:55:19+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://erikcan.com/contact/</loc>
+  <lastmod>2017-06-23T16:55:19+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://erikcan.com/assets/pdfs/KarwatowskiErikResume.pdf</loc>
+  <lastmod>2017-06-23T16:55:18+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>

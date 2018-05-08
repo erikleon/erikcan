@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Erik Can
+title: Erik Karwatowski | Full Stack Developer
 email: yeserikcan@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is the portfolio of Erik Karwatowski, a full-stack developer. Thank you for visiting!
+  This is the portfolio of Erik Karwatowski. Thank you for visiting!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://erikcan.com.local" # the base hostname & protocol for your site
+url: "https://erikkarwatowski.com" # the base hostname & protocol for your site
 twitter_username: erikkarwatowski
 github_username:  erikleon
 
